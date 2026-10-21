@@ -1,0 +1,50 @@
+{
+ "maxwords": 400,
+ "counts": {
+  "conversations": 837989,
+  "x_no_edit_instruction": 464743,
+  "x_language": 359491,
+  "x_instruction_not_an_edit_request": 10311,
+  "x_passage_quality": 805,
+  "x_passage_length": 1804,
+  "x_reply_not_an_edit": 128,
+  "x_reply_not_one_passage": 80,
+  "x_duplicate_passage": 216,
+  "kept_pairs": 411
+ },
+ "by_family_academic": {
+  "gpt-4|academic=False": 94,
+  "gpt-3.5|academic=False": 282,
+  "gpt-3.5|academic=True": 31,
+  "gpt-4|academic=True": 4
+ },
+ "by_quarter_family": {
+  "2023Q2|gpt-4": 64,
+  "2023Q2|gpt-3.5": 72,
+  "2023Q3|gpt-3.5": 120,
+  "2023Q4|gpt-3.5": 97,
+  "2023Q4|gpt-4": 5,
+  "2024Q1|gpt-4": 18,
+  "2024Q1|gpt-3.5": 21,
+  "2024Q2|gpt-4": 11,
+  "2024Q2|gpt-3.5": 3
+ },
+ "by_bucket_academic": {
+  "rewrite|academic=False": 231,
+  "polish|academic=False": 111,
+  "rewrite|academic=True": 21,
+  "academic|academic=True": 8,
+  "grammar|academic=False": 32,
+  "grammar|academic=True": 1,
+  "academic|academic=False": 2,
+  "polish|academic=True": 5
+ },
+ "models": {
+  "gpt-4-0314": 64,
+  "gpt-3.5-turbo-0301": 48,
+  "gpt-3.5-turbo-0613": 246,
+  "gpt-4-1106-preview": 14,
+  "gpt-3.5-turbo-0125": 19,
+  "gpt-4-0125-preview": 20
+ }
+}

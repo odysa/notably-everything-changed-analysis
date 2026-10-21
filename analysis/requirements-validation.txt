@@ -1,0 +1,8 @@
+# Validated scientific environment, Python 3.14; optional raw-PDF extraction also needs Poppler.
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+statsmodels==0.15.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+Pillow==13.0.0

@@ -1,0 +1,320 @@
+{
+  "source_revision": "0d4dd55c88a79724914e339ba3511086c05653d0",
+  "retrieval_date_utc": "2026-10-19T21:32:46.764958+00:00",
+  "sources": {
+    "acl2019": {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/P19.xml",
+      "sha256": "96218e56875235601fb59b4c2c2339f702b949a3e6385d87e687c849036e8d32",
+      "bytes": 1208459
+    },
+    "acl2020": {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2020.acl.xml",
+      "sha256": "bf1af8c932bb12c3059451d9be8aaa7c6288399acba2bc8d57a7ef18a5c16b58",
+      "bytes": 1500743
+    },
+    "acl2024": {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2024.acl.xml",
+      "sha256": "b8e6fe0b20a6e0a6ef3794de36fdd16679dbaba35a9d952cc48995bd3e6c19a1",
+      "bytes": 2258241
+    },
+    "acl2025": {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2025.acl.xml",
+      "sha256": "c33953c58ec4c15e43b30521d51072f9330b06a7680d099d4f5dbf51b905ccc1",
+      "bytes": 5125801
+    },
+    "acl2026": {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2026.acl.xml",
+      "sha256": "851417d54bc77ff766d3501e1a250bd6530784b04876478fc0b144c755555e05",
+      "bytes": 7358915
+    }
+  },
+  "numeric_input_sha256": "b85eb994dc0372093fa6da83719179d9a5a523b3361e09d921d93521af262ae0",
+  "coverage": {
+    "acl2019": {
+      "numeric_available": 80,
+      "exact_metadata_matches": 80,
+      "with_explicit_author_id": 31,
+      "panel_papers": 3,
+      "all_author_occurrences": 333,
+      "explicit_id_occurrences": 43
+    },
+    "acl2020": {
+      "numeric_available": 202,
+      "exact_metadata_matches": 202,
+      "with_explicit_author_id": 77,
+      "panel_papers": 14,
+      "all_author_occurrences": 926,
+      "explicit_id_occurrences": 103
+    },
+    "acl2024": {
+      "numeric_available": 80,
+      "exact_metadata_matches": 80,
+      "with_explicit_author_id": 18,
+      "panel_papers": 4,
+      "all_author_occurrences": 487,
+      "explicit_id_occurrences": 19
+    },
+    "acl2025": {
+      "numeric_available": 200,
+      "exact_metadata_matches": 200,
+      "with_explicit_author_id": 195,
+      "panel_papers": 3,
+      "all_author_occurrences": 1244,
+      "explicit_id_occurrences": 936
+    },
+    "acl2026": {
+      "numeric_available": 198,
+      "exact_metadata_matches": 198,
+      "with_explicit_author_id": 198,
+      "panel_papers": 7,
+      "all_author_occurrences": 1333,
+      "explicit_id_occurrences": 1127
+    }
+  },
+  "recurring_explicit_ids": 11,
+  "panel_unique_papers": 31,
+  "paper_author_rows": 31,
+  "connected_component_sizes": [
+    4,
+    4,
+    4,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "metrics": {
+    "sent_len": {
+      "all_pre": 21.8586333857355,
+      "all_post": 21.849722631855467,
+      "panel_pre": 22.664886833243813,
+      "panel_post": 22.777394906369075,
+      "author_FE_post_minus_pre": 0.27951855240815315
+    },
+    "sent_cv": {
+      "all_pre": 0.5186260025163743,
+      "all_post": 0.5039891619208342,
+      "panel_pre": 0.5323539675625457,
+      "panel_post": 0.5028249246835538,
+      "author_FE_post_minus_pre": -0.024457836842090037
+    },
+    "emdash_1k": {
+      "all_pre": 0.25030194134083084,
+      "all_post": 0.5379906016621366,
+      "panel_pre": 0.36820791616165693,
+      "panel_post": 0.4625225170392096,
+      "author_FE_post_minus_pre": 0.21671705984631054
+    },
+    "style_lex_1k": {
+      "all_pre": 1.1129964082346202,
+      "all_post": 3.8172267998120093,
+      "panel_pre": 1.0100527551678178,
+      "panel_post": 2.3403550952118186,
+      "author_FE_post_minus_pre": 0.9121514790002894
+    },
+    "famous_ai_words_1k": {
+      "all_pre": 0.024918024294234613,
+      "all_post": 0.1023130765056252,
+      "panel_pre": 0.01339333547626701,
+      "panel_post": 0.0966062706958614,
+      "author_FE_post_minus_pre": 0.08365643771742863
+    },
+    "llm_1k": {
+      "all_pre": 0.0147599476648929,
+      "all_post": 8.970285061168696,
+      "panel_pre": 0.03896263578701637,
+      "panel_post": 9.501508368696353,
+      "author_FE_post_minus_pre": 9.316751531394548
+    },
+    "mattr": {
+      "all_pre": 0.4583937521010981,
+      "all_post": 0.49918971718428373,
+      "panel_pre": 0.46724387197207795,
+      "panel_post": 0.49036624652526983,
+      "author_FE_post_minus_pre": 0.02325318846633836
+    },
+    "words": {
+      "all_pre": 4249.684397163121,
+      "all_post": 4012.5732217573222,
+      "panel_pre": 4670.823529411765,
+      "panel_post": 4260.571428571428,
+      "author_FE_post_minus_pre": -345.9047619047618
+    }
+  },
+  "composition_by_corpus": {
+    "acl2019": {
+      "sent_len": {
+        "original_mean": 21.836143611942653,
+        "panel_mean": 23.00681818181818
+      },
+      "sent_cv": {
+        "original_mean": 0.5126568140460969,
+        "panel_mean": 0.5204187078362131
+      },
+      "emdash_1k": {
+        "original_mean": 0.1130009701869932,
+        "panel_mean": 0.0
+      },
+      "style_lex_1k": {
+        "original_mean": 1.0135967878070073,
+        "panel_mean": 0.7480105639644842
+      },
+      "famous_ai_words_1k": {
+        "original_mean": 0.016168273102552273,
+        "panel_mean": 0.0
+      },
+      "llm_1k": {
+        "original_mean": 0.006098043273731149,
+        "panel_mean": 0.0795924864692773
+      },
+      "mattr": {
+        "original_mean": 0.4550017341411066,
+        "panel_mean": 0.4629026267556049
+      },
+      "words": {
+        "original_mean": 3720.6625,
+        "panel_mean": 4116.0
+      }
+    },
+    "acl2020": {
+      "sent_len": {
+        "original_mean": 21.867540226841573,
+        "panel_mean": 22.59161582997788
+      },
+      "sent_cv": {
+        "original_mean": 0.5209900375541079,
+        "panel_mean": 0.5349115232181885
+      },
+      "emdash_1k": {
+        "original_mean": 0.3046785635799744,
+        "panel_mean": 0.44710961248201203
+      },
+      "style_lex_1k": {
+        "original_mean": 1.1523625945425857,
+        "panel_mean": 1.0662046532828178
+      },
+      "famous_ai_words_1k": {
+        "original_mean": 0.028383272290940488,
+        "panel_mean": 0.016263335935467083
+      },
+      "llm_1k": {
+        "original_mean": 0.018190404849511416,
+        "panel_mean": 0.030256239212246176
+      },
+      "mattr": {
+        "original_mean": 0.4597371255505998,
+        "panel_mean": 0.4681741388041793
+      },
+      "words": {
+        "original_mean": 4459.19801980198,
+        "panel_mean": 4789.714285714285
+      }
+    },
+    "acl2024": {
+      "sent_len": {
+        "original_mean": 21.82783902004889,
+        "panel_mean": 21.52651883376958
+      },
+      "sent_cv": {
+        "original_mean": 0.4992597082619616,
+        "panel_mean": 0.4636174607253327
+      },
+      "emdash_1k": {
+        "original_mean": 0.13825295699117443,
+        "panel_mean": 0.1717426150675521
+      },
+      "style_lex_1k": {
+        "original_mean": 3.677786700618028,
+        "panel_mean": 3.4947106539689443
+      },
+      "famous_ai_words_1k": {
+        "original_mean": 0.23917411030215058,
+        "panel_mean": 0.05928385107896609
+      },
+      "llm_1k": {
+        "original_mean": 10.802739090425025,
+        "panel_mean": 13.845939672013861
+      },
+      "mattr": {
+        "original_mean": 0.47556423926848684,
+        "panel_mean": 0.48406840065688483
+      },
+      "words": {
+        "original_mean": 4264.4875,
+        "panel_mean": 4037.0
+      }
+    },
+    "acl2025": {
+      "sent_len": {
+        "original_mean": 21.961040522888005,
+        "panel_mean": 22.798139768728003
+      },
+      "sent_cv": {
+        "original_mean": 0.5035310656013745,
+        "panel_mean": 0.5257571193813355
+      },
+      "emdash_1k": {
+        "original_mean": 0.52335275954664,
+        "panel_mean": 0.6508950872432901
+      },
+      "style_lex_1k": {
+        "original_mean": 4.098809184298639,
+        "panel_mean": 1.1873658971595606
+      },
+      "famous_ai_words_1k": {
+        "original_mean": 0.10494218284003026,
+        "panel_mean": 0.13912636581622176
+      },
+      "llm_1k": {
+        "original_mean": 8.907745186656747,
+        "panel_mean": 5.200613381119667
+      },
+      "mattr": {
+        "original_mean": 0.4864553374939697,
+        "panel_mean": 0.48533543703893395
+      },
+      "words": {
+        "original_mean": 4030.635,
+        "panel_mean": 4707.0
+      }
+    },
+    "acl2026": {
+      "sent_len": {
+        "original_mean": 21.746122181037375,
+        "panel_mean": 23.483290578272108
+      },
+      "sent_cv": {
+        "original_mean": 0.5063627758430652,
+        "panel_mean": 0.5154011063606307
+      },
+      "emdash_1k": {
+        "original_mean": 0.714286460231714,
+        "panel_mean": 0.5479513595069793
+      },
+      "style_lex_1k": {
+        "original_mean": 3.589139582833184,
+        "panel_mean": 2.1748615750872853
+      },
+      "famous_ai_words_1k": {
+        "original_mean": 0.04436002614904417,
+        "panel_mean": 0.09971046971107575
+      },
+      "llm_1k": {
+        "original_mean": 8.293071185218611,
+        "panel_mean": 8.862216904333499
+      },
+      "mattr": {
+        "original_mean": 0.5215983746152261,
+        "panel_mean": 0.49612107680134815
+      },
+      "words": {
+        "original_mean": 3892.5454545454545,
+        "panel_mean": 4197.0
+      }
+    }
+  }
+}

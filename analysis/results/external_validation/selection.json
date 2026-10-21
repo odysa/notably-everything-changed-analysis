@@ -1,0 +1,682 @@
+{
+  "length_note": "No explicit long/short labels in selected XML volumes; main research entries include mixed lengths. 2019 is joint EMNLP-IJCNLP; other years EMNLP main. No page-count inference.",
+  "original_source_id_overlap": 0,
+  "private_selection_sha256": "15ab0346aaef3ff9df146d4feb58777ff3e5843b781e9d50e8889e0475954c7f",
+  "revision": "0d4dd55c88a79724914e339ba3511086c05653d0",
+  "selected": [
+    {
+      "paper_hash": "dba31cd1462c",
+      "year": 2019
+    },
+    {
+      "paper_hash": "192e54b03f12",
+      "year": 2019
+    },
+    {
+      "paper_hash": "338a1e7267fe",
+      "year": 2019
+    },
+    {
+      "paper_hash": "785ce6a581e0",
+      "year": 2019
+    },
+    {
+      "paper_hash": "efeeae243aa8",
+      "year": 2019
+    },
+    {
+      "paper_hash": "c7f265dbde4f",
+      "year": 2019
+    },
+    {
+      "paper_hash": "d8e22c6c3f01",
+      "year": 2019
+    },
+    {
+      "paper_hash": "af658928fa3d",
+      "year": 2019
+    },
+    {
+      "paper_hash": "602d0dc90773",
+      "year": 2019
+    },
+    {
+      "paper_hash": "9ea7210a0f7e",
+      "year": 2019
+    },
+    {
+      "paper_hash": "5d9e88c3a467",
+      "year": 2019
+    },
+    {
+      "paper_hash": "492765357005",
+      "year": 2019
+    },
+    {
+      "paper_hash": "305a12d856a9",
+      "year": 2019
+    },
+    {
+      "paper_hash": "4c59d050376c",
+      "year": 2019
+    },
+    {
+      "paper_hash": "46cf5f1e49cd",
+      "year": 2019
+    },
+    {
+      "paper_hash": "ee7c5e50d390",
+      "year": 2019
+    },
+    {
+      "paper_hash": "82bb77a6b247",
+      "year": 2019
+    },
+    {
+      "paper_hash": "e7978fbc974d",
+      "year": 2019
+    },
+    {
+      "paper_hash": "1252f90a6e57",
+      "year": 2019
+    },
+    {
+      "paper_hash": "1373b74e9f01",
+      "year": 2019
+    },
+    {
+      "paper_hash": "39163ead012b",
+      "year": 2019
+    },
+    {
+      "paper_hash": "8edecc53b03f",
+      "year": 2019
+    },
+    {
+      "paper_hash": "14590022bf2b",
+      "year": 2019
+    },
+    {
+      "paper_hash": "b0f6f959edb4",
+      "year": 2019
+    },
+    {
+      "paper_hash": "a7ec40cfa4a5",
+      "year": 2019
+    },
+    {
+      "paper_hash": "9f60b9886794",
+      "year": 2019
+    },
+    {
+      "paper_hash": "8d826d99a9a3",
+      "year": 2019
+    },
+    {
+      "paper_hash": "e5bd8d09d28d",
+      "year": 2019
+    },
+    {
+      "paper_hash": "4eabe4c6e691",
+      "year": 2019
+    },
+    {
+      "paper_hash": "300bfbf8480e",
+      "year": 2019
+    },
+    {
+      "paper_hash": "af2465467953",
+      "year": 2019
+    },
+    {
+      "paper_hash": "7a98647f6e07",
+      "year": 2019
+    },
+    {
+      "paper_hash": "ee12ee888e52",
+      "year": 2019
+    },
+    {
+      "paper_hash": "74cae6f95c64",
+      "year": 2019
+    },
+    {
+      "paper_hash": "b0e81a089816",
+      "year": 2019
+    },
+    {
+      "paper_hash": "d27792f18117",
+      "year": 2019
+    },
+    {
+      "paper_hash": "4ebbe6b1cbe4",
+      "year": 2019
+    },
+    {
+      "paper_hash": "249cb796066b",
+      "year": 2019
+    },
+    {
+      "paper_hash": "68042a4fa86e",
+      "year": 2019
+    },
+    {
+      "paper_hash": "46726ed86e42",
+      "year": 2019
+    },
+    {
+      "paper_hash": "de1472f67192",
+      "year": 2020
+    },
+    {
+      "paper_hash": "ec79ab631943",
+      "year": 2020
+    },
+    {
+      "paper_hash": "34ff174efd1f",
+      "year": 2020
+    },
+    {
+      "paper_hash": "8e7e56fa1d8b",
+      "year": 2020
+    },
+    {
+      "paper_hash": "c32126c48b22",
+      "year": 2020
+    },
+    {
+      "paper_hash": "4bb02d3d2727",
+      "year": 2020
+    },
+    {
+      "paper_hash": "4f33865b3753",
+      "year": 2020
+    },
+    {
+      "paper_hash": "1b7b6cb04c9d",
+      "year": 2020
+    },
+    {
+      "paper_hash": "dd136eccb244",
+      "year": 2020
+    },
+    {
+      "paper_hash": "9070a9f7199a",
+      "year": 2020
+    },
+    {
+      "paper_hash": "7d50d0a9541f",
+      "year": 2020
+    },
+    {
+      "paper_hash": "b40528ab998c",
+      "year": 2020
+    },
+    {
+      "paper_hash": "b3f994ecdfec",
+      "year": 2020
+    },
+    {
+      "paper_hash": "ffc2b4864c09",
+      "year": 2020
+    },
+    {
+      "paper_hash": "3f21c42fdaf1",
+      "year": 2020
+    },
+    {
+      "paper_hash": "e1784aaa11e7",
+      "year": 2020
+    },
+    {
+      "paper_hash": "5fe2a391c4e7",
+      "year": 2020
+    },
+    {
+      "paper_hash": "419ea9e25808",
+      "year": 2020
+    },
+    {
+      "paper_hash": "291713c7adce",
+      "year": 2020
+    },
+    {
+      "paper_hash": "b0bc6d419fb6",
+      "year": 2020
+    },
+    {
+      "paper_hash": "6fece720341f",
+      "year": 2020
+    },
+    {
+      "paper_hash": "366419b3ed11",
+      "year": 2020
+    },
+    {
+      "paper_hash": "fc8bf62bceb5",
+      "year": 2020
+    },
+    {
+      "paper_hash": "1654cf4f1938",
+      "year": 2020
+    },
+    {
+      "paper_hash": "2a798af1e2d6",
+      "year": 2020
+    },
+    {
+      "paper_hash": "2e7e0c84f673",
+      "year": 2020
+    },
+    {
+      "paper_hash": "bce59fef4fcf",
+      "year": 2020
+    },
+    {
+      "paper_hash": "631eae3a79de",
+      "year": 2020
+    },
+    {
+      "paper_hash": "01280907cea5",
+      "year": 2020
+    },
+    {
+      "paper_hash": "8e4c6ba1a068",
+      "year": 2020
+    },
+    {
+      "paper_hash": "7ce5693e6543",
+      "year": 2020
+    },
+    {
+      "paper_hash": "2cb15218c26b",
+      "year": 2020
+    },
+    {
+      "paper_hash": "7cf28f095104",
+      "year": 2020
+    },
+    {
+      "paper_hash": "1e4ef6da2ee3",
+      "year": 2020
+    },
+    {
+      "paper_hash": "97a4ed700dbd",
+      "year": 2020
+    },
+    {
+      "paper_hash": "f3639eef38ef",
+      "year": 2020
+    },
+    {
+      "paper_hash": "b23731defc17",
+      "year": 2020
+    },
+    {
+      "paper_hash": "5870bda3b38c",
+      "year": 2020
+    },
+    {
+      "paper_hash": "6107f15b9824",
+      "year": 2020
+    },
+    {
+      "paper_hash": "d930b420aa7d",
+      "year": 2020
+    },
+    {
+      "paper_hash": "f091fb752da9",
+      "year": 2024
+    },
+    {
+      "paper_hash": "b6e589ac8251",
+      "year": 2024
+    },
+    {
+      "paper_hash": "028a7888f537",
+      "year": 2024
+    },
+    {
+      "paper_hash": "9e1f1bc87483",
+      "year": 2024
+    },
+    {
+      "paper_hash": "c36190791ce3",
+      "year": 2024
+    },
+    {
+      "paper_hash": "85368da85ded",
+      "year": 2024
+    },
+    {
+      "paper_hash": "2e14a732bfdd",
+      "year": 2024
+    },
+    {
+      "paper_hash": "97d547148512",
+      "year": 2024
+    },
+    {
+      "paper_hash": "885e8e8f800f",
+      "year": 2024
+    },
+    {
+      "paper_hash": "27f74c88c5d7",
+      "year": 2024
+    },
+    {
+      "paper_hash": "762cb4869b5a",
+      "year": 2024
+    },
+    {
+      "paper_hash": "d706dbba21b4",
+      "year": 2024
+    },
+    {
+      "paper_hash": "f0f14a8f2926",
+      "year": 2024
+    },
+    {
+      "paper_hash": "11636e291795",
+      "year": 2024
+    },
+    {
+      "paper_hash": "0d893918487f",
+      "year": 2024
+    },
+    {
+      "paper_hash": "dd6caea2ea06",
+      "year": 2024
+    },
+    {
+      "paper_hash": "96889585ccf2",
+      "year": 2024
+    },
+    {
+      "paper_hash": "b4ac9d41467c",
+      "year": 2024
+    },
+    {
+      "paper_hash": "c109725a0f86",
+      "year": 2024
+    },
+    {
+      "paper_hash": "7afa175b3157",
+      "year": 2024
+    },
+    {
+      "paper_hash": "b597650ab595",
+      "year": 2024
+    },
+    {
+      "paper_hash": "d54dfba79bc8",
+      "year": 2024
+    },
+    {
+      "paper_hash": "cf8df1eb8b0f",
+      "year": 2024
+    },
+    {
+      "paper_hash": "b78c9b14434c",
+      "year": 2024
+    },
+    {
+      "paper_hash": "c80dc3058edc",
+      "year": 2024
+    },
+    {
+      "paper_hash": "cf492e9a7da4",
+      "year": 2024
+    },
+    {
+      "paper_hash": "a76715956d7e",
+      "year": 2024
+    },
+    {
+      "paper_hash": "d646cfc950a8",
+      "year": 2024
+    },
+    {
+      "paper_hash": "8bddb0995937",
+      "year": 2024
+    },
+    {
+      "paper_hash": "09ffd6ffc8b4",
+      "year": 2024
+    },
+    {
+      "paper_hash": "9f16f44727e8",
+      "year": 2024
+    },
+    {
+      "paper_hash": "153f4b5c45e4",
+      "year": 2024
+    },
+    {
+      "paper_hash": "d589a6964314",
+      "year": 2024
+    },
+    {
+      "paper_hash": "ae802057bf79",
+      "year": 2024
+    },
+    {
+      "paper_hash": "91aee5964ceb",
+      "year": 2024
+    },
+    {
+      "paper_hash": "ab208f6595ba",
+      "year": 2024
+    },
+    {
+      "paper_hash": "d058861d1b69",
+      "year": 2024
+    },
+    {
+      "paper_hash": "458b9e8a582d",
+      "year": 2024
+    },
+    {
+      "paper_hash": "8bfb6a3725c5",
+      "year": 2024
+    },
+    {
+      "paper_hash": "860d3b4da828",
+      "year": 2024
+    },
+    {
+      "paper_hash": "643906f34306",
+      "year": 2025
+    },
+    {
+      "paper_hash": "6449b6d6c5b4",
+      "year": 2025
+    },
+    {
+      "paper_hash": "acb4d210ad12",
+      "year": 2025
+    },
+    {
+      "paper_hash": "9e3cc8b40184",
+      "year": 2025
+    },
+    {
+      "paper_hash": "ec3c79d12072",
+      "year": 2025
+    },
+    {
+      "paper_hash": "63980512d909",
+      "year": 2025
+    },
+    {
+      "paper_hash": "fabc9cae7052",
+      "year": 2025
+    },
+    {
+      "paper_hash": "1e4dfe8f0c5a",
+      "year": 2025
+    },
+    {
+      "paper_hash": "03e589be2b28",
+      "year": 2025
+    },
+    {
+      "paper_hash": "a2ed3248b91f",
+      "year": 2025
+    },
+    {
+      "paper_hash": "276a38f445b0",
+      "year": 2025
+    },
+    {
+      "paper_hash": "60a46161e777",
+      "year": 2025
+    },
+    {
+      "paper_hash": "d13b8ed26bca",
+      "year": 2025
+    },
+    {
+      "paper_hash": "8ac9679fc0d8",
+      "year": 2025
+    },
+    {
+      "paper_hash": "18357a5ef0df",
+      "year": 2025
+    },
+    {
+      "paper_hash": "1209c85a46a4",
+      "year": 2025
+    },
+    {
+      "paper_hash": "0a58a48491dd",
+      "year": 2025
+    },
+    {
+      "paper_hash": "4c55d72737e3",
+      "year": 2025
+    },
+    {
+      "paper_hash": "43ff6e239793",
+      "year": 2025
+    },
+    {
+      "paper_hash": "b50bb91d4369",
+      "year": 2025
+    },
+    {
+      "paper_hash": "19ce7f3d4827",
+      "year": 2025
+    },
+    {
+      "paper_hash": "d8e4677ddd7f",
+      "year": 2025
+    },
+    {
+      "paper_hash": "51282a69040d",
+      "year": 2025
+    },
+    {
+      "paper_hash": "9ed308939870",
+      "year": 2025
+    },
+    {
+      "paper_hash": "f1ef9f3d01de",
+      "year": 2025
+    },
+    {
+      "paper_hash": "1e712ad7df88",
+      "year": 2025
+    },
+    {
+      "paper_hash": "3a5c26c1a9f2",
+      "year": 2025
+    },
+    {
+      "paper_hash": "a31dc061c2eb",
+      "year": 2025
+    },
+    {
+      "paper_hash": "3882556fa515",
+      "year": 2025
+    },
+    {
+      "paper_hash": "fb8907656009",
+      "year": 2025
+    },
+    {
+      "paper_hash": "a3e4e9ba856b",
+      "year": 2025
+    },
+    {
+      "paper_hash": "15c1a8a4c0a5",
+      "year": 2025
+    },
+    {
+      "paper_hash": "b620358e9e1b",
+      "year": 2025
+    },
+    {
+      "paper_hash": "713a21f4eeab",
+      "year": 2025
+    },
+    {
+      "paper_hash": "3035f73a2ded",
+      "year": 2025
+    },
+    {
+      "paper_hash": "3927a02d260d",
+      "year": 2025
+    },
+    {
+      "paper_hash": "d409199f8a2d",
+      "year": 2025
+    },
+    {
+      "paper_hash": "25a0f4221581",
+      "year": 2025
+    },
+    {
+      "paper_hash": "69aa98452910",
+      "year": 2025
+    },
+    {
+      "paper_hash": "a57b3df9e668",
+      "year": 2025
+    }
+  ],
+  "sources": {
+    "2019": {
+      "collection": "D19",
+      "eligible_entries": 681,
+      "long_short_labels": false,
+      "metadata_sha256": "f372d1b939d2662b0f97c812bdf665d7b1f55e0617a10f311ec29845ae8be274",
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/D19.xml",
+      "volume": "1"
+    },
+    "2020": {
+      "collection": "2020.emnlp",
+      "eligible_entries": 751,
+      "long_short_labels": false,
+      "metadata_sha256": "342525384aa71a5094497b1034796ddd0b1e8467ae8906e03d467405a8d30e78",
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2020.emnlp.xml",
+      "volume": "main"
+    },
+    "2024": {
+      "collection": "2024.emnlp",
+      "eligible_entries": 1268,
+      "long_short_labels": false,
+      "metadata_sha256": "b2ee7d716a7a80c1c07d1913f31d53acfb246443a64432a6d41db7743c3bac8a",
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2024.emnlp.xml",
+      "volume": "main"
+    },
+    "2025": {
+      "collection": "2025.emnlp",
+      "eligible_entries": 1809,
+      "long_short_labels": false,
+      "metadata_sha256": "e0351476bf05fd4ad404ea7ef90e4596a537b445b996b059444f8263df5fd452",
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/data/xml/2025.emnlp.xml",
+      "volume": "main"
+    }
+  }
+}

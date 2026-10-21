@@ -1,0 +1,5 @@
+post_papers,pooled_auc,venues,n
+all post papers,0.8730958356173254,10,2652
+< 5 mentions (main analysis),0.8443920686004678,10,1453
+< 1 per 1k words,0.8431148008092496,10,1457
+zero mentions,0.835244091092156,10,1127

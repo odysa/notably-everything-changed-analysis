@@ -1,0 +1,14 @@
+{
+  "run_date_utc": "2026-10-20T00:04:58.871897+00:00",
+  "python": "3.14.5",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1"
+  },
+  "poppler": "pdftotext version 26.04.0",
+  "protocol_commit": "6d94e4a",
+  "selection_commit": "81107e6",
+  "note": "Subsequent code adds only metadata fetching and artifact contracts; original extraction and statistical definitions unchanged."
+}

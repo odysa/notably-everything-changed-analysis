@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "checks": [
+    "initial inline script execution",
+    "dynamic statistics and charts",
+    "era example toggles",
+    "synonym toggle",
+    "short-text refusal and two meter samples",
+    "game source reveal and next round",
+    "legacy detector slider",
+    "all generated fragment links"
+  ],
+  "scope": "jsdom DOM unit checks, not a browser rendering or visual review",
+  "html_sha256": "8490b421f46c50490bf30573c74ea69a3e4969009ea4cfbe7e7beedc9e430441",
+  "html_bytes": 277221,
+  "node_version": "v24.16.0",
+  "jsdom_version": "26.1.0",
+  "json_blocks": [
+    "data",
+    "game",
+    "extra"
+  ]
+}

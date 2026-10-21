@@ -1,0 +1,115 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bao et~al.(2025)Bao, Zhao, Mao, and Zhang]{bao2025linguistic}
+Tong Bao, Yi~Zhao, Jin Mao, and Chengzhi Zhang.
+\newblock Examining linguistic shifts in academic writing before and after the
+  launch of {ChatGPT}: A study on preprint papers.
+\newblock \emph{Scientometrics}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2505.12218}.
+\newblock arXiv:2505.12218.
+
+\bibitem[Benjamini and Hochberg(1995)]{benjamini1995fdr}
+Yoav Benjamini and Yosef Hochberg.
+\newblock Controlling the false discovery rate: A practical and powerful
+  approach to multiple testing.
+\newblock \emph{Journal of the Royal Statistical Society: Series B},
+  57\penalty0 (1):\penalty0 289--300, 1995.
+
+\bibitem[Biber and Gray(2010)]{biber2010academic}
+Douglas Biber and Bethany Gray.
+\newblock Challenging stereotypes about academic writing: Complexity,
+  elaboration, explicitness.
+\newblock \emph{Journal of English for Academic Purposes}, 9\penalty0
+  (1):\penalty0 2--20, 2010.
+
+\bibitem[Covington and McFall(2010)]{covington2010mattr}
+Michael~A. Covington and Joe~D. McFall.
+\newblock Cutting the {Gordian} knot: The moving-average type--token ratio
+  ({MATTR}).
+\newblock \emph{Journal of Quantitative Linguistics}, 17\penalty0 (2):\penalty0
+  94--100, 2010.
+
+\bibitem[Flesch(1948)]{flesch1948}
+Rudolf Flesch.
+\newblock A new readability yardstick.
+\newblock \emph{Journal of Applied Psychology}, 32\penalty0 (3):\penalty0
+  221--233, 1948.
+
+\bibitem[Geng and Trotta(2024)]{geng2024chatgpt}
+Mingmeng Geng and Roberto Trotta.
+\newblock Is {ChatGPT} transforming academics' writing style?
+\newblock \emph{arXiv preprint arXiv:2404.08627}, 2024.
+
+\bibitem[Hyland(1998)]{hyland1998hedging}
+Ken Hyland.
+\newblock \emph{Hedging in Scientific Research Articles}.
+\newblock John Benjamins, 1998.
+
+\bibitem[Kass and Raftery(1995)]{kass1995bayes}
+Robert~E. Kass and Adrian~E. Raftery.
+\newblock Bayes factors.
+\newblock \emph{Journal of the American Statistical Association}, 90\penalty0
+  (430):\penalty0 773--795, 1995.
+
+\bibitem[Kobak et~al.(2024)Kobak, Gonz{\'a}lez-M{\'a}rquez, Horv{\'a}t, and
+  Lause]{kobak2024delving}
+Dmitry Kobak, Rita Gonz{\'a}lez-M{\'a}rquez, Emőke-{\'A}gnes Horv{\'a}t, and
+  Jan Lause.
+\newblock Delving into {ChatGPT} usage in academic writing through excess
+  vocabulary.
+\newblock \emph{arXiv preprint arXiv:2406.07016}, 2024.
+
+\bibitem[Kousha and Thelwall(2026)]{kousha2026language}
+Kayvan Kousha and Mike Thelwall.
+\newblock How much are {LLM}s changing the language of academic papers after
+  {ChatGPT}? a multi-database and full text analysis.
+\newblock \emph{Scientometrics}, 2026.
+\newblock \doi{10.1007/s11192-026-05601-5}.
+\newblock URL \url{https://doi.org/10.1007/s11192-026-05601-5}.
+
+\bibitem[Liang et~al.(2024{\natexlab{a}})]{liang2024mapping}
+Weixin Liang et~al.
+\newblock Mapping the increasing use of {LLMs} in scientific papers.
+\newblock In \emph{Conference on Language Modeling (COLM)}, 2024{\natexlab{a}}.
+\newblock arXiv:2404.01268.
+
+\bibitem[Liang et~al.(2024{\natexlab{b}})]{liang2024monitoring}
+Weixin Liang et~al.
+\newblock Monitoring {AI}-modified content at scale: A case study on the impact
+  of {ChatGPT} on {AI} conference peer reviews.
+\newblock In \emph{International Conference on Machine Learning (ICML)},
+  2024{\natexlab{b}}.
+\newblock arXiv:2403.07183.
+
+\bibitem[Mileti{\'c} and Falk(2026)]{miletic2026communication}
+Filip Mileti{\'c} and Neele Falk.
+\newblock What are {LLM}s doing to scientific communication? measuring changes
+  in writing practices and reading experience.
+\newblock In \emph{Proceedings of the Fifteenth Language Resources and
+  Evaluation Conference}, pages 1811--1830. ELRA Language Resource Association,
+  2026.
+\newblock \doi{10.63317/3ai7wig4fhd8}.
+\newblock URL \url{https://aclanthology.org/2026.lrec-1.142/}.
+
+\bibitem[Schuirmann(1987)]{schuirmann1987tost}
+Donald~J. Schuirmann.
+\newblock A comparison of the two one-sided tests procedure and the power
+  approach for assessing the equivalence of average bioavailability.
+\newblock \emph{Journal of Pharmacokinetics and Biopharmaceutics}, 15\penalty0
+  (6):\penalty0 657--680, 1987.
+
+\bibitem[Zhao et~al.(2024)Zhao, Ren, Hessel, Cardie, Choi, and
+  Deng]{zhao2024wildchat}
+Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, and Yuntian
+  Deng.
+\newblock {WildChat}: 1m {ChatGPT} interaction logs in the wild.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2024.
+\newblock arXiv:2405.01470.
+
+\end{thebibliography}

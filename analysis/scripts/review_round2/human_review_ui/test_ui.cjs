@@ -1,0 +1,10 @@
+const fs=require('fs'),assert=require('assert'),{JSDOM}=require('jsdom');
+const text='An example 😀 was tested, showing a concrete improvement.';
+const config={packet_sha256:'test',items:[{item_id:'fixture-1',sentence:text},{item_id:'fixture-2',sentence:'No relevant clause here.'}]};
+const html=fs.readFileSync('scripts/review_round2/human_review_ui/template.html','utf8').replace('__PACKET_JSON__',JSON.stringify(config));
+const dom=new JSDOM(html,{runScripts:'dangerously',url:'https://offline.invalid',beforeParse(w){w.structuredClone=structuredClone;w.confirm=()=>true;}}),w=dom.window,d=w.document;
+d.getElementById('reviewer').value='fixture-human';d.getElementById('human').checked=true;d.getElementById('start').click();
+let box=d.getElementById('sentence');box.setSelectionRange(text.indexOf(','),text.length);d.getElementById('add').click();box.setSelectionRange(text.indexOf('showing'),text.indexOf('showing')+7);d.querySelector('#clauses button').click();
+let selects=d.querySelectorAll('#clauses select');selects[0].value='functional';selects[0].dispatchEvent(new w.Event('change'));selects[1].value='yes';selects[1].dispatchEvent(new w.Event('change'));let check=d.querySelector('#clauses input');check.checked=false;check.dispatchEvent(new w.Event('change'));d.getElementById('save').click();assert.equal(d.getElementById('error').textContent,'');d.getElementById('none').checked=true;d.getElementById('save').click();
+const stored=JSON.parse(w.localStorage.getItem('human-review:test:fixture-human'));assert.equal(stored.annotations.length,2);assert.equal(stored.annotations[0].clauses[0].verb_start,Array.from(text.slice(0,text.indexOf('showing'))).length);assert.equal(stored.annotations[0].clauses[0].start,Array.from(text.slice(0,text.indexOf(','))).length);assert.equal(stored.annotations[1].clauses.length,0);
+fs.writeFileSync('/tmp/human-ui-fixture-review.json',JSON.stringify(stored));console.log('UI fixture passed: selection, non-BMP Unicode spans, explicit negative, persistence, complete envelope.');

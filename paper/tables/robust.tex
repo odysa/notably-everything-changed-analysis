@@ -1,0 +1,16 @@
+\begin{tabular}{l l}
+\toprule
+Check & Result \\
+\midrule
+Placebo, 2016 vs.\ 2020: style-index AUC & 0.54 (real: 0.87) \\
+Legacy placebo classifier AUC & 0.63 (real: 0.94) \\
+Style index, controls for length, format, topic, venue & +2.26 SD (0.07) \\
+Style index, papers with zero LLM mentions ($n$=1127) & +2.30 SD (0.08) \\
+Quantile shift, 10th / 50th / 90th percentile & +0.26 / +0.59 / +0.97 SD \\
+Pooled AUC with zero-LLM-mention post papers & 0.84 (all papers: 0.87) \\
+Legacy classifier CV / LOVO AUC & 0.94 / 0.92 \\
+Classifier with shuffled labels: mean / max AUC & 0.51 / 0.54 \\
+Pooled AUC, dropping any one venue & 0.87--0.88 \\
+Marker correlation, 2019--20 vs.\ 2024--26 (mean $\rho$) & 0.040 vs.\ 0.067 \\
+\bottomrule
+\end{tabular}

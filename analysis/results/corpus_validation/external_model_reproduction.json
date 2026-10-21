@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "training_n": 3949,
+  "external_n": 158,
+  "auc": 0.8907226406024676,
+  "maximum_score_difference": 3.1086244689504383e-15,
+  "sha256": {
+    "scripts/corpus_validation/verify_external_model.py": "324fb3731dbf07ce58275c758adf556f3a9ece9e14e657d14e1db0ad5fce8110",
+    "results/external_validation/features_numeric.jsonl": "73207133925eaa3cffc4964b088075d5a52141a13c8428d3c8b701dcedae682e",
+    "results/external_validation/scores.csv": "340e8f35679af3d4609c29e96575f4280c41ff883ec355cf3bb63b30ddeef859",
+    "results/corpus_validation/features_numeric.jsonl.gz": "b85eb994dc0372093fa6da83719179d9a5a523b3361e09d921d93521af262ae0"
+  },
+  "scope": "Numeric transform, model fit and prediction reproduction; not an independent PDF extraction or bootstrap reproduction."
+}

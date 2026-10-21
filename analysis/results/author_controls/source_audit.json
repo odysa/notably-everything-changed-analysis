@@ -1,0 +1,27 @@
+{
+  "retrieved_utc_date": "2026-10-19",
+  "failed_sources": [
+    {
+      "url": "https://dblp.org/db/conf/nsdi/nsdi2020.xml",
+      "http_status": 202,
+      "body_type": "HTML anti-bot challenge, not XML",
+      "sha256": "9d402c5a72e807fffb8be1a8fd586fe6d1042f4339ff6c5a17ed4125f28c27b5"
+    },
+    {
+      "url": "https://dblp.uni-trier.de/db/conf/nsdi/nsdi2020.xml",
+      "http_status": 202,
+      "body_type": "HTML anti-bot challenge, not XML",
+      "sha256": "23d459b249f5c750d985063bc483b2840744d3824c5a0f36c88c52402b52452a"
+    }
+  ],
+  "identity_documentation": [
+    {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/hugo/content/info/names.md",
+      "sha256": "2776f516049e9647c4c3f96f14785a677261f3777525a6193e3c2e372c898bac"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/0d4dd55c88a79724914e339ba3511086c05653d0/hugo/content/posts/2026-01-26-new-author-system.md",
+      "sha256": "1b5d71ea87b45eb625515eed6cde5d1e50c8adc5e6d720a08b92f6424ff6067b"
+    }
+  ]
+}

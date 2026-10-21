@@ -1,0 +1,236 @@
+{
+  "bootstrap_replicates": 2000,
+  "counts": {
+    "2019": {
+      "included": 39,
+      "selected": 40,
+      "statuses": {
+        "excluded_under_1500_words": 1,
+        "included": 39
+      }
+    },
+    "2020": {
+      "included": 40,
+      "selected": 40,
+      "statuses": {
+        "excluded_under_1500_words": 0,
+        "included": 40
+      }
+    },
+    "2024": {
+      "included": 40,
+      "selected": 40,
+      "statuses": {
+        "excluded_under_1500_words": 0,
+        "included": 40
+      }
+    },
+    "2025": {
+      "included": 39,
+      "selected": 40,
+      "statuses": {
+        "excluded_under_1500_words": 1,
+        "included": 39
+      }
+    }
+  },
+  "hashes": {
+    "results/corpus_validation/features_numeric.jsonl.gz": "b85eb994dc0372093fa6da83719179d9a5a523b3361e09d921d93521af262ae0",
+    "results/external_validation/PROTOCOL.md": "e7b5a80145d6fb718eadc76f13d4cc104da9d1beeb63eb0aa8a146ab62d030ea",
+    "results/external_validation/selection.json": "566ecff6419e8e894233db1a1fa6879a85054868e4255302c8fca1537a6ba152",
+    "scripts/corpus_validation/extractor_snapshot.py": "395961c4f0b355329dcce3c905a3f157bac0ca8427864049b76d2c8d666fe17e",
+    "scripts/extract.py": "db40a7eb33b4f515f7cf3c89bbe5e747f26af7b24fed77c9c65519d064128260",
+    "scripts/features.py": "6266a03e3fbaaf4bcebbac57e26fbf42707fbc5cfe0592616e89d44afa2be4f4",
+    "scripts/stats.py": "2563e14838d29ce9f1341fc5db2ba42df3d769e4a719e045c6796287e3a26a3b"
+  },
+  "results": {
+    "2019_vs_2024": {
+      "addnot_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.27756368586505903,
+          0.5729900189866473
+        ],
+        "estimate": 0.41485057439339185
+      },
+      "auc": {
+        "conditional_paper_bootstrap_95ci": [
+          0.7800961538461538,
+          0.9365544871794871
+        ],
+        "estimate": 0.8628205128205129
+      },
+      "ing_func_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.6198121406200569,
+          1.2536549912274875
+        ],
+        "estimate": 0.9217869480756676
+      },
+      "ing_interp_core_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.08266067037154275,
+          0.3386584291950265
+        ],
+        "estimate": 0.19189870230807904
+      }
+    },
+    "2019_vs_2025": {
+      "addnot_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.2860907682802763,
+          0.5556239349077496
+        ],
+        "estimate": 0.42038754392285327
+      },
+      "auc": {
+        "conditional_paper_bootstrap_95ci": [
+          0.8809993425378041,
+          0.9783037475345168
+        ],
+        "estimate": 0.9368836291913215
+      },
+      "ing_func_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.9313830815184899,
+          1.6730924619010779
+        ],
+        "estimate": 1.2979062637398782
+      },
+      "ing_interp_core_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.2673799122562773,
+          0.5704730643787417
+        ],
+        "estimate": 0.40484164150650565
+      }
+    },
+    "2020_vs_2024": {
+      "addnot_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.25094120320960317,
+          0.559748110494782
+        ],
+        "estimate": 0.40108982857691156
+      },
+      "auc": {
+        "conditional_paper_bootstrap_95ci": [
+          0.74875,
+          0.9193749999999999
+        ],
+        "estimate": 0.8418749999999999
+      },
+      "ing_func_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.3328254988474205,
+          1.0574107397735006
+        ],
+        "estimate": 0.7012127559296528
+      },
+      "ing_interp_core_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.10535233823440536,
+          0.34587795961138446
+        ],
+        "estimate": 0.21104987432581085
+      }
+    },
+    "2020_vs_2025": {
+      "addnot_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.27696855197927744,
+          0.543403645384361
+        ],
+        "estimate": 0.4066267981063729
+      },
+      "auc": {
+        "conditional_paper_bootstrap_95ci": [
+          0.8608814102564102,
+          0.9718108974358974
+        ],
+        "estimate": 0.9237179487179488
+      },
+      "ing_func_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.7033117978832738,
+          1.4507037784912853
+        ],
+        "estimate": 1.0773320715938632
+      },
+      "ing_interp_core_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.28898531287176443,
+          0.5682356915489877
+        ],
+        "estimate": 0.42399281352423746
+      }
+    },
+    "pooled": {
+      "addnot_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.3128745144833763,
+          0.5125840235354019
+        ],
+        "estimate": 0.41061654881098403
+      },
+      "auc": {
+        "conditional_paper_bootstrap_95ci": [
+          0.8363924050632912,
+          0.9339889440794744
+        ],
+        "estimate": 0.8907226406024676
+      },
+      "ing_func_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.7575257263013823,
+          1.2402490887423916
+        ],
+        "estimate": 0.9957829686460928
+      },
+      "ing_interp_core_1k": {
+        "conditional_paper_bootstrap_95ci": [
+          0.21435465207654408,
+          0.4062449104749542
+        ],
+        "estimate": 0.30671922774412846
+      }
+    }
+  },
+  "seed": 20261019,
+  "style_features": [
+    "ing_func_1k",
+    "ing_interp_core_1k",
+    "ing_interp_1k",
+    "ing_other_1k",
+    "boost_1k",
+    "hedge_1k",
+    "we_1k",
+    "op_additionally_1k",
+    "op_notably_1k",
+    "op_specifically_1k",
+    "op_furthermore_1k",
+    "op_however_1k",
+    "op_moreover_1k",
+    "op_while_1k",
+    "op_thus_1k",
+    "op_in_particular_1k",
+    "this_closer_1k",
+    "emdash_1k",
+    "rather_than_1k",
+    "triad_1k",
+    "not_only_1k",
+    "semicolon_1k",
+    "colon_1k",
+    "question_1k",
+    "sent_len",
+    "sent_cv",
+    "runin_share",
+    "style_lex_1k",
+    "famous_ai_words_1k",
+    "mattr",
+    "novel_1k",
+    "first_claim_1k",
+    "quant_1k"
+  ],
+  "training_n": 3949,
+  "training_pre_n": 1297
+}

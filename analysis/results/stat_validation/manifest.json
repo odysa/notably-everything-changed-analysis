@@ -1,0 +1,97 @@
+{
+  "seed": 20261019,
+  "bootstrap_B": 500,
+  "source_sha256": {
+    "portable_features": "b85eb994dc0372093fa6da83719179d9a5a523b3361e09d921d93521af262ae0"
+  },
+  "definition_sha256": {
+    "stats.py": "c81a6d5ec20fb847faf5e42e900e2bb77770ece07be033274d8d459df5dedefb",
+    "analyze.py": "7ddc9d04baf9c87b36fa3ab0e47140257bef433cd98939322e4eb2e082c406d0"
+  },
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0",
+    "scikit-learn": "1.9.1"
+  },
+  "python": "3.14.5",
+  "definitions": {
+    "STYLE": [
+      "ing_func_1k",
+      "ing_interp_core_1k",
+      "ing_interp_1k",
+      "ing_other_1k",
+      "boost_1k",
+      "hedge_1k",
+      "we_1k",
+      "op_additionally_1k",
+      "op_notably_1k",
+      "op_specifically_1k",
+      "op_furthermore_1k",
+      "op_however_1k",
+      "op_moreover_1k",
+      "op_while_1k",
+      "op_thus_1k",
+      "op_in_particular_1k",
+      "this_closer_1k",
+      "emdash_1k",
+      "rather_than_1k",
+      "triad_1k",
+      "not_only_1k",
+      "semicolon_1k",
+      "colon_1k",
+      "question_1k",
+      "sent_len",
+      "sent_cv",
+      "runin_share",
+      "style_lex_1k",
+      "famous_ai_words_1k",
+      "mattr",
+      "novel_1k",
+      "first_claim_1k",
+      "quant_1k"
+    ],
+    "INDEX9": [
+      "ing_interp_core_1k",
+      "ing_func_1k",
+      "boost_1k",
+      "op_additionally_1k",
+      "op_notably_1k",
+      "emdash_1k",
+      "this_closer_1k",
+      "style_lex_1k",
+      "famous_ai_words_1k"
+    ]
+  },
+  "counts": {
+    "base_rows": 9472,
+    "base_cells": 103,
+    "original_rows": 9023,
+    "original_cells": 98,
+    "corrected_rows": 9101,
+    "corrected_cells": 99,
+    "excluded_original": {
+      "colm2024": 72,
+      "colm2025": 125,
+      "colm2026": 150,
+      "eurosys2025": 24,
+      "vldb2016": 78
+    }
+  },
+  "version_audit_sha256": "380fa36faecbcd837a01c66f67b88cbd1a7378d901ae27ceb8ff88b08361926c",
+  "version_exclusions": 18,
+  "style_complete_case_exclusions": 0,
+  "original_source_sha256": {
+    "features.jsonl": "8862ac3ce9ec7f7bced792efc79e452242fe51cfd7f78f9066bbc7e628e7a18a",
+    "newfeatures.jsonl": "7839c5f7c9b4b4f2a42847c6ea017e3ed06d933b1b4711f5535e6f29b4af1b2b",
+    "all_features.csv": "af0f58533536323f28b072a019582f313c00dbc824040f0cfc03faae1ff84c55",
+    "lists.tsv": "19968668b5ee080e9b94ab82bf21104574e754738d2f4afae75721653a3b75e5"
+  },
+  "frozen_provenance_sha256": "ac574bd69f25e13e504e2579e3c3ce2ad5881df67f6c4b462a7d14793af0c460",
+  "audit_script_sha256": {
+    "check.py": "ae8548d5c40261cbd34ad195ed5ede12d1cc488fb1d413233054645f0f9c8027",
+    "validate.py": "5cbf314122bd5a95489d20e6879b5a07d84d5010a71413b9f17c03e432e187e3",
+    "report.py": "78a87077fda438b8f145eeb49cfcbc179d84b077429742aea8904ff0efa8f129"
+  }
+}

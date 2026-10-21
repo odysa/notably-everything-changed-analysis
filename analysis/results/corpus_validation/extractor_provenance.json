@@ -1,0 +1,8 @@
+{
+  "origin": "user workspace roast-paper/scripts/_common.py",
+  "source_sha256": "395961c4f0b355329dcce3c905a3f157bac0ca8427864049b76d2c8d666fe17e",
+  "snapshot_sha256": "395961c4f0b355329dcce3c905a3f157bac0ca8427864049b76d2c8d666fe17e",
+  "behavior": "PDF implementation invokes default pdftotext; original docstring mentions layout but implementation governs",
+  "legacy_source_revision": "40b0119",
+  "copyrighted_paper_text_in_snapshot": false
+}

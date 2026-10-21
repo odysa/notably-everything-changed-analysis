@@ -1,0 +1,142 @@
+{
+  "cells": {
+    "cvpr2020": {
+      "catalog_entries": 1466,
+      "current_numeric_cohort_n": 149,
+      "new_all_track_entries": 1316,
+      "new_source_id_disjoint_eligible_catalog_entries": 1316,
+      "original_ids_found_in_current_catalog": 150,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 150,
+      "snapshots": [
+        {
+          "bytes": 1152492,
+          "private_snapshot": "cvpr2020-0.html",
+          "sha256": "57975bf59819520d60a46210e17146e7a519d0783412f14900ffeb7d58bf49bc",
+          "url": "https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-16"
+        },
+        {
+          "bytes": 1132652,
+          "private_snapshot": "cvpr2020-1.html",
+          "sha256": "63d4130f6d805a62b5cc226b87b2876504ddc398f8084eead0d7782739393576",
+          "url": "https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-17"
+        },
+        {
+          "bytes": 1221014,
+          "private_snapshot": "cvpr2020-2.html",
+          "sha256": "e97ffae30a4c2f0db5d1d833e219f4c65cfb89703c8bf2a7d4d9bd79e4571bc1",
+          "url": "https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-18"
+        }
+      ],
+      "track_counts": {
+        "main-conference": 1466
+      }
+    },
+    "cvpr2025": {
+      "catalog_entries": 2871,
+      "current_numeric_cohort_n": 150,
+      "new_all_track_entries": 2721,
+      "new_source_id_disjoint_eligible_catalog_entries": 2721,
+      "original_ids_found_in_current_catalog": 150,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 150,
+      "snapshots": [
+        {
+          "bytes": 8396274,
+          "private_snapshot": "cvpr2025-0.html",
+          "sha256": "2f08dc191b870530993ba6a5a79e8c8ae812f158b6a30b21a96f3b190af96bfa",
+          "url": "https://openaccess.thecvf.com/CVPR2025?day=all"
+        }
+      ],
+      "track_counts": {
+        "main-conference": 2871
+      }
+    },
+    "icml2020": {
+      "catalog_entries": 1084,
+      "current_numeric_cohort_n": 150,
+      "new_all_track_entries": 934,
+      "new_source_id_disjoint_eligible_catalog_entries": 934,
+      "original_ids_found_in_current_catalog": 150,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 150,
+      "snapshots": [
+        {
+          "bytes": 1093205,
+          "private_snapshot": "icml2020-0.html",
+          "sha256": "c2be66987933e2faa3bb474a8f82a44f124b1cc98776ac8e217d17f0aa5bc9b1",
+          "url": "https://proceedings.mlr.press/v119/"
+        }
+      ],
+      "track_counts": {
+        "volume-research-entry": 1084
+      }
+    },
+    "icml2025": {
+      "catalog_entries": 3330,
+      "current_numeric_cohort_n": 150,
+      "new_all_track_entries": 3180,
+      "new_source_id_disjoint_eligible_catalog_entries": 3180,
+      "original_ids_found_in_current_catalog": 150,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 150,
+      "snapshots": [
+        {
+          "bytes": 3639879,
+          "private_snapshot": "icml2025-0.html",
+          "sha256": "9e17ee7ed7eda2727ad46178644225738ee1d8e3e319441ad4d1c11e4986288d",
+          "url": "https://proceedings.mlr.press/v267/"
+        }
+      ],
+      "track_counts": {
+        "volume-research-entry": 3330
+      }
+    },
+    "neurips2020": {
+      "catalog_entries": 1898,
+      "current_numeric_cohort_n": 149,
+      "new_all_track_entries": 1748,
+      "new_source_id_disjoint_eligible_catalog_entries": 1748,
+      "original_ids_found_in_current_catalog": 150,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 150,
+      "snapshots": [
+        {
+          "bytes": 1015900,
+          "private_snapshot": "neurips2020-0.html",
+          "sha256": "92a206ec3e110f72c1ac352a40291a5ca821878ddac9064551271339e1be4fd9",
+          "url": "https://papers.nips.cc/paper_files/paper/2020"
+        }
+      ],
+      "track_counts": {
+        "none": 1898
+      }
+    },
+    "neurips2025": {
+      "catalog_entries": 5823,
+      "current_numeric_cohort_n": 0,
+      "new_all_track_entries": 5823,
+      "new_source_id_disjoint_eligible_catalog_entries": 5286,
+      "original_ids_found_in_current_catalog": 0,
+      "original_ids_not_found": 0,
+      "original_manifest_n": 0,
+      "snapshots": [
+        {
+          "bytes": 4104303,
+          "private_snapshot": "neurips2025-0.html",
+          "sha256": "48c2de5e5acae991a8b88eaa00174387a7ce066efeb337e30593989bd5015c9a",
+          "url": "https://papers.nips.cc/paper_files/paper/2025/vol38-main-conference"
+        }
+      ],
+      "track_counts": {
+        "conference": 5286,
+        "datasets_and_benchmarks_track": 497,
+        "position_paper_track": 40
+      }
+    }
+  },
+  "checked_utc_date": "2026-10-20",
+  "numeric_input_sha256": "b85eb994dc0372093fa6da83719179d9a5a523b3361e09d921d93521af262ae0",
+  "original_manifest_sha256": "19968668b5ee080e9b94ab82bf21104574e754738d2f4afae75721653a3b75e5",
+  "scope": "three venues; publication-year2020/2025 catalogs only; no PDF/outcome retrieval"
+}
